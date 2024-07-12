@@ -2,3 +2,4 @@ mysql:8.0.29
 nacos/nacos-server
 ghcr.io/konpyutaika/docker-images/nifikop:v1.9.0-release
 docker.io/bitnami/zookeeper:3.9.2-debian-12-r8
+apache/nifi:1.23.2
