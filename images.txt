@@ -1,1 +1,1 @@
-gcr.io/distroless/static:nonroot
+quay.io/ceph/ceph:v18.2.2
