@@ -1,1 +1,1 @@
-quay.io/ceph/ceph:v18.2.2
+gcr.io/distroless/java:11
